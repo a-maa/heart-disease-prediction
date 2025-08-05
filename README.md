@@ -10,3 +10,5 @@ Results Summary:
 | Precision | 0.833 | 0.830 | 0.867 | 0.850 |
 | Recall | 0.899 | 0.890 | 0.886 | 0.890 |
 | F1 | 0.860 | 0.860   | 0.875 | 0.870 |
+
+The full accompanying report PDF can also be found on this repository.
